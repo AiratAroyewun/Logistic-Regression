@@ -1,3 +1,4 @@
+# Predicting whether or not a user will click on an advertisement
 In this project, I will be working on a fake advertising dataset with the aim of creating a model that will predict whether or not a user will click on an advertisement on a company website based off the features of that user. 
 The objective is to showcase my skill in creating a logistic regression model.
 
