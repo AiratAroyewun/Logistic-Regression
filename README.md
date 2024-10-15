@@ -14,3 +14,4 @@ This data set contains the following features:
 * Country: Country of consumer
 * Timestamp: Time at which consumer clicked on Ad or closed window
 * Clicked on Ad: 0 or 1 indicated clicking on Ad
+![thumblin](https://github.com/user-attachments/assets/3b8c9a31-7bdd-4e39-9ba4-3dc0269f1746)
